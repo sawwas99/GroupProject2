@@ -14,16 +14,16 @@
         android:onClick="showMyLocation"
         android:text="Click to Track Location" />
 
-<TextView
-android:id="@+id/textView4"
-android:layout_width="wrap_content"
-android:layout_height="wrap_content"
-android:layout_centerHorizontal="true"
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
 
-android:layout_marginTop="24dp"
-android:fontFamily="serif"
-android:text="Track your Family and friends Real Time"
-android:textColor="@color/colorPrimary"
-android:textStyle="bold" />
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_marginTop="24dp"
+        android:fontFamily="serif"
+        android:text="Track your Location Real Time"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold" />
 
 </RelativeLayout>
