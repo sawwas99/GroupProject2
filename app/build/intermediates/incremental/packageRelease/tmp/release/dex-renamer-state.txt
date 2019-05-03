@@ -1,0 +1,4 @@
+#Fri May 03 11:53:53 EDT 2019
+base.0=C\:\\Users\\songd\\AndroidStudioProjects\\PingMe\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
