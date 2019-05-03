@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969840619523",
+    "firebase_url": "https://project2-1c60e.firebaseio.com",
+    "project_id": "project2-1c60e",
+    "storage_bucket": "project2-1c60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969840619523:android:7950c18c0ff899a3",
+        "android_client_info": {
+          "package_name": "proj2.mobile.cs.fsu.edu.pingme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969840619523-lu2c91rc3i2dt61m3kdqbpc5j783hcaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "proj2.mobile.cs.fsu.edu.pingme",
+            "certificate_hash": "5722cfa95e017e7c068a61c273519514c335f0e4"
+          }
+        },
+        {
+          "client_id": "969840619523-kjnvorpavmtkq1ru4qp13l64gtj4vjsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDauDF5GSqVnbSXAE-kxENg7Pi1O5kOdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969840619523-kjnvorpavmtkq1ru4qp13l64gtj4vjsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
